@@ -1,0 +1,7 @@
+Matriz & n & iter & $\norm{x_{GC} - x_{GCP}}_2$ \\ \hline 
+Cholesky & 10 & 381 & 1.854944e-03 \\ 
+Jacobi & 10 & 1418 & 3.169314e-03 \\ 
+Cholesky & 15 & 5000 & 1.222418e+04 \\ 
+Jacobi & 15 & 5000 & 1.373634e+03 \\ 
+Cholesky & 20 & 5000 & 1.776027e+01 \\ 
+Jacobi & 20 & 5000 & 1.119325e+06 \\ 
